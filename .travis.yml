@@ -32,6 +32,7 @@ addons:
     - libimage-exiftool-perl
     - gifsicle
     - python-all-dev
+    - python3-all-dev
     - scons
     - libboost-python-dev
     - libexiv2-dev
